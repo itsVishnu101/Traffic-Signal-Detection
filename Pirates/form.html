@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Form</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <form id ="application"action="form.php" method="post">
+            <div>
+                <label for="name">Full Name</label><br>
+                <input type = "text" id="name" name="Full name " required>
+            </div>
+            <div>
+                <label for="email">Email</label><br>
+                <input type="email" id = "email" name="email address" required>
+            </div>
+            <div>
+                <label for="Phone ">Phone no</label><br>
+                <input type="number" id ="number" name="number" required>
+            </div>
+            <div>
+                <label for="Date of birth">Date of Birth</label><br>
+                <input type="date" id = "DOB" name="DOB" required>
+            </div>
+            <div>
+                <label for="position ">Position applied for</label><br>
+                <select id ="position"name= "position applied" required>
+                    <option value="">Select</option>
+                    <option value="frontend">frontend</option>
+                    <option value="backend">backend</option>
+                    <option value="fullstack">fullstack</option>
+                    <option value="data analytic">data analytic</option>
+                </select>
+            </div>
+            <div>
+                <label for = "resume">Upload Resume</label><br>
+                <input type = "file" id = "resume" name="resume" accept=".pdf,.doc,.docx" required>
+            </div>
+            <div>
+                <label for="terms"><input type="checkbox" id ="terms" name ="terms"  required>I agree to terms and conditions</label>
+            </div>
+            <div>
+                <input type="submit" value="Submit" required>
+            </div>
+        </form>
+    </body>
+</html>
+<!---4:16-->
