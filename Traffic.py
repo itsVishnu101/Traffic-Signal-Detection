@@ -1,3 +1,4 @@
+# traffic signal Detection
 import cv2
 import numpy as np
 
@@ -79,4 +80,5 @@ while True:
 
 # Release the camera and close all windows
 cam.release()
+
 cv2.destroyAllWindows()
