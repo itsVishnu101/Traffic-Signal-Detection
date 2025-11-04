@@ -29,14 +29,6 @@ This project is licensed under the MIT License – feel free to use and modify i
 ## 📞 Contact  
 
 👤 **Vishnu Verma**  
-📧 **Email:** [ui22ec86@iiitsurat.ac.in](mailto:ui22ec86@iiitsurat.ac.in)  
-📍 **Location:** [IIIT Surat](https://www.iiitsurat.ac.in/)  
-
----
-
-🌐 **Connect with me:**  
-[![Location](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.iiitsurat.ac.in/))  
-[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnu)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ui22ec86@iiitsurat.ac.in)
 
 > 💬 Feel free to reach out for collaborations, research opportunities, or project discussions!
