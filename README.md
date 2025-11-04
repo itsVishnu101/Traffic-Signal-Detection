@@ -28,7 +28,6 @@ This project is licensed under the MIT License – feel free to use and modify i
 
 ## 📞 Contact  
 
-👤 **Vishnu Verma**  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ui22ec86@iiitsurat.ac.in)
 
 > 💬 Feel free to reach out for collaborations, research opportunities, or project discussions!
