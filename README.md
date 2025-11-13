@@ -1,4 +1,4 @@
-###🚦 Traffic Signal Detection using OpenCV
+## 🚦 Traffic Signal Detection using OpenCV
 
 📌 Project Overview
 
