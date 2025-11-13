@@ -14,7 +14,7 @@ This project is developed as part of the IPCV (Image Processing and Computer Vis
 
 🎯 Results
 
-The system successfully detects and recognizes traffic signals. Example output:
+The system successfully detects and recognizes traffic signals. 
 
 
 
@@ -22,9 +22,6 @@ The system successfully detects and recognizes traffic signals. Example output:
 
 🚀 Improve accuracy using Machine Learning (ML) and Deep Learning (DL) models🚀 Expand signal dataset for better recognition🚀 Implement deployment as a web or mobile application🚀 Integrate with autonomous driving systems
 
-📜 License
-
-This project is licensed under the MIT License – feel free to use and modify it.
 
 ## 📞 Contact  
 
