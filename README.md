@@ -1,9 +1,3 @@
-Here is a **more natural, human-written README** — not too robotic, not too academic, but still professional and clear.
-You can directly paste this into your GitHub `README.md`:
-
----
-
-```markdown
 # 🚦 Traffic Signal Detection using OpenCV
 
 This project was created as part of the **IPCV (Image Processing and Computer Vision)** course.  
