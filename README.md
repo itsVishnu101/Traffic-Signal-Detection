@@ -77,3 +77,16 @@ Share feedback
 </div>
 
 
+<!-- Minimal Rounded Chips -->
+<div align="left" style="display:flex; gap:10px; align-items:center;">
+  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration:none; display:inline-block; border-radius:16px; padding:4px 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:ui22ec86@iiitsurat.ac.in" style="text-decoration:none; display:inline-block; border-radius:16px; padding:4px 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
+
