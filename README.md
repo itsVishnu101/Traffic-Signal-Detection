@@ -65,5 +65,15 @@ Share feedback
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/its-vishnu-verma/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ui22ec86@iiitsurat.ac.in)
 
+<!-- MacOS-like Soft Shadow -->
+<div align="left" style="display:flex; gap:12px; align-items:center;">
+  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration:none; display:inline-block; border-radius:12px; padding:6px; background: #ffffff11; box-shadow: 0 6px 18px rgba(10,102,194,0.08);">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:ui22ec86@iiitsurat.ac.in" style="text-decoration:none; display:inline-block; border-radius:12px; padding:6px; background: #ffffff11; box-shadow: 0 6px 18px rgba(209,72,54,0.08);">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 
