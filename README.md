@@ -63,11 +63,11 @@ Share feedback
 ### Connect with me:
 
 <div align="left" style="display:flex; gap:12px; align-items:center;text-decoration:none">
-<a href="mailto:ui22ec86@iiitsurat.ac.in" style="text-decoration:none; display:inline-block; border-radius:22px; padding:6px; background: #ffffff11; box-shadow: 0 6px 18px rgba(209,72,54,0.08);">
+<a href="mailto:ui22ec86@iiitsurat.ac.in" style="text-decoration:none; display:inline-block; border-radius:22px; padding:6px; background: #ffffff11; box-shadow: 0 6px 18px rgba(209,72,54,0.08); text-decoration:none">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp
-    <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration:none; display:inline-block; border-radius:22px; padding:6px; background: #ffffff11; box-shadow: 0 6px 18px rgba(10,102,194,0.08);">
+    <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration:none; display:inline-block; border-radius:22px; padding:6px; background: #ffffff11; text-decoration:none;box-shadow: 0 6px 18px rgba(10,102,194,0.08);">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
